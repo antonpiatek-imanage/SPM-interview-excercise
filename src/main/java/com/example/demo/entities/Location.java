@@ -6,12 +6,6 @@ import javax.persistence.*;
 import java.util.Set;
 
 @javax.persistence.Entity
-//@NamedEntityGraph(
-//        name = "Location",
-//        attributeNodes = {
-//                @NamedAttributeNode("id"),
-//                @NamedAttributeNode("country")
-//        })
 public class Location {
     @Id
     @GeneratedValue(strategy= GenerationType.IDENTITY)
