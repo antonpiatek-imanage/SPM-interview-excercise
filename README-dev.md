@@ -1,5 +1,3 @@
-# Wiki
-https://wiki.imanage.com/display/IWM/Spring+Starter+Project
 
 # Tips
 
